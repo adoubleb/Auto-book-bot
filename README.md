@@ -1,6 +1,8 @@
 # Auto-book-bot
 
 Usage:
+Compile all the files together in one folder
+Install the necessary libraries
 Run Main.py
 
 Libraries needed:
